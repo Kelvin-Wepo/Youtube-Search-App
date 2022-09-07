@@ -1,0 +1,22 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+  
+  body{
+    background:whitesmoke;
+  }
+  
+  .form input {
+    width: 70%;
+    margin: 0 auto;
+  }
+  
+  .row {
+    margin-top: 3rem;
+  }
+  .btn{
+    background-color: black;
+  }
+  
